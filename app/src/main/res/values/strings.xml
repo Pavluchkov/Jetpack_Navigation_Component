@@ -2,4 +2,13 @@
     <string name="app_name">JetpackNavigationComponent</string>
 
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_firstButton_mainFragment">Open first fragment</string>
+    <string name="text_secondButton_mainFragment">Open second fragment</string>
+    <string name="text_thirdButton_mainFragment">Open third fragment</string>
+    <string name="text_first_fragment">This is the first fragment</string>
+    <string name="text_second_fragment">This is the second fragment</string>
+    <string name="text_et_personName_hint_thirdFragment">Input the person name</string>
+    <string name="text_et_personAge_hint_thirdFragment">Input the person Age</string>
+    <string name="text_btn_confirm_thirdFragment">Confirm</string>
+    <string name="text_btn_showPerson_thirdFragment">Show person</string>
 </resources>
