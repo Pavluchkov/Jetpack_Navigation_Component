@@ -29,7 +29,7 @@
             android:layout_marginTop="70dp"
             android:autofillHints="Input the person name"
             android:hint="@string/text_et_personAge_hint_thirdFragment"
-            android:inputType="text"
+            android:inputType="number"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="@+id/et_personName_thirdFragment" />
